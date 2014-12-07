@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseHelper", "DatabaseUtility\DataBaseHelper\DataBaseHelper.csproj", "{DA0E383E-086A-43A9-A21D-7F9288340975}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "数据库通用操作", "数据库通用操作", "{D15E598B-E5BF-4F68-A7AF-E61CEF93AF31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "通用工具插件", "通用工具插件", "{98F17464-CD83-4CE5-A762-791999190A8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonTools", "CommonTools\CommonTools\CommonTools.csproj", "{F85787EB-F913-4464-9F8E-5CABF25AA893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibTools", "TestLibTools\TestLibTools.csproj", "{8F65E57F-8AE2-4898-BE1A-6D3DDAA89CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0E383E-086A-43A9-A21D-7F9288340975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0E383E-086A-43A9-A21D-7F9288340975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0E383E-086A-43A9-A21D-7F9288340975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0E383E-086A-43A9-A21D-7F9288340975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85787EB-F913-4464-9F8E-5CABF25AA893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85787EB-F913-4464-9F8E-5CABF25AA893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85787EB-F913-4464-9F8E-5CABF25AA893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85787EB-F913-4464-9F8E-5CABF25AA893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F65E57F-8AE2-4898-BE1A-6D3DDAA89CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F65E57F-8AE2-4898-BE1A-6D3DDAA89CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F65E57F-8AE2-4898-BE1A-6D3DDAA89CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F65E57F-8AE2-4898-BE1A-6D3DDAA89CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DA0E383E-086A-43A9-A21D-7F9288340975} = {D15E598B-E5BF-4F68-A7AF-E61CEF93AF31}
+		{F85787EB-F913-4464-9F8E-5CABF25AA893} = {98F17464-CD83-4CE5-A762-791999190A8C}
+	EndGlobalSection
+EndGlobal

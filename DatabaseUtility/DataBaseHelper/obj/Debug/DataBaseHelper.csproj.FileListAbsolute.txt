@@ -1,0 +1,4 @@
+H:\Project_Web\CodeHelper\DatabaseUtility\DataBaseHelper\bin\Debug\DataBaseHelper.dll
+H:\Project_Web\CodeHelper\DatabaseUtility\DataBaseHelper\bin\Debug\DataBaseHelper.pdb
+H:\Project_Web\CodeHelper\DatabaseUtility\DataBaseHelper\obj\Debug\DataBaseHelper.dll
+H:\Project_Web\CodeHelper\DatabaseUtility\DataBaseHelper\obj\Debug\DataBaseHelper.pdb
